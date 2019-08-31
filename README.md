@@ -4,7 +4,7 @@
 
 ## Description
 
-<p align=" justify"> In a Stroop task, participants are presented with a list of words, with each word displayed in a color of ink. The participant’s task is to say out loud the color of the ink in which the word is printed. The task has two conditions: a congruent words condition, and an incongruent words condition. In the congruent words condition, the words being displayed are color words whose names match the colors in which they are printed: for example RED, BLUE. In the incongruent words condition, the words displayed are color words whose names do not match the colors in which they are printed: for example PURPLE, ORANGE. In each case, we measure the time it takes to name the ink colors in equally-sized lists. Each participant will go through and record a time from each condition.</p>
+<p align=" justify"> In a Stroop task, participants are presented with a list of words, with each word displayed in a color of ink. The participant’s task is to say out loud the color of the ink in which the word is printed. The task has two conditions: a congruent words condition, and an incongruent words condition. In the congruent words condition, the words being displayed are color words whose names match the colors in which they are printed: for example RED, BLUE. In the incongruent words condition, the words displayed are color words whose names do not match the colors in which they are printed: for example PURPLE, ORANGE. In each case, we measure the time it takes to name the ink colors in equally-sized lists. Each participant will go through and record a time from each condition. </p>
 
 ## Project Overview
 
@@ -21,4 +21,4 @@
 - How to use descriptive statistics to describe qualities of a sample
 - How to set up a hypothesis test, make inferences from a sample, and draw conclusions based on the results
 
-<p align=" justify"> This project is focused on statistics, including designing an experiment and testing a hypothesis. Using statistics to draw valid conclusions about data is an important part of a data analyst's work. When you see a company release a new feature, what do you think went into the decision making? Typically, a business has a goal they want to achieve - for Udacity, it may mean increased enrollments. We'd spend a long time user testing and A/B testing to make sure trials of potential products indicate we'd get the outcome we wanted.</p>
+<p align=" justify">This project is focused on statistics, including designing an experiment and testing a hypothesis. Using statistics to draw valid conclusions about data is an important part of a data analyst's work. When you see a company release a new feature, what do you think went into the decision making? Typically, a business has a goal they want to achieve - for Udacity, it may mean increased enrollments. We'd spend a long time user testing and A/B testing to make sure trials of potential products indicate we'd get the outcome we wanted.</p>
